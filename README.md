@@ -33,6 +33,7 @@ This repository will cover a wide range of DSA topics, including but not limited
 ## How to Use This Repository
 
 You can browse the folders to find solutions to specific problems. Each solution file is named according to the problem statement.
+It has a markdown file which gives an example of how the question is framed.
 
 Feel free to use this repository as a reference, but I encourage you to try to solve the problems on your own first.
 
